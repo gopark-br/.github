@@ -1,5 +1,10 @@
-# Hi there 👋
+# GoPark
 
+![Thumb (1)](https://github.com/gopark-dev/.github/assets/78569475/4560d7e2-664d-485d-a33d-c646f1f0093d)
+
+## About us
+
+Hello, dev community! We are GoPark: a company that is bringing new solutions to Brazilian urban mobility market. Join us in our compaign to make the parking proccess more easy and accessible to everyone!
 
 
 
